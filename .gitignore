@@ -90,4 +90,5 @@ ENV/
 
 #Pictures
 *.jpg
+*.jpeg
 *.png
